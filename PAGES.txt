@@ -1,4 +1,4 @@
-USER	DISCOUNT	CATEGORY	URL
+BOT	DISCOUNT	CATEGORY	URL
 BOT1	25	TABLET	https://www.hepsiburada.com/tablet-c-3008012
 BOT1	25	GPU	https://www.hepsiburada.com/msi-asus-gigabyte-sapphire-pny-inno3d-xfx-quadro-palit-zotac-powercolor-galax-amd/ekran-kartlari-c-204
 BOT1	25	CPU	https://www.hepsiburada.com/islemciler-c-46
