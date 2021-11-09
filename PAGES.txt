@@ -1,5 +1,5 @@
 BOT	DISCOUNT	CATEGORY	URL
-BOT1	25	TABLET	https://www.hepsiburada.com/tablet-c-3008012
+BOT1	33	TABLET	https://www.hepsiburada.com/tablet-c-3008012
 BOT1	25	GPU	https://www.hepsiburada.com/msi-asus-gigabyte-sapphire-pny-inno3d-xfx-quadro-palit-zotac-powercolor-galax-amd/ekran-kartlari-c-204
 BOT1	25	CPU	https://www.hepsiburada.com/islemciler-c-46
 BOT1	25	NB_LENOVO	https://www.hepsiburada.com/lenovo/laptop-notebook-dizustu-bilgisayarlar-c-98?puan=4-max,min-1&filtreler=islemcinesli:10%E2%82%AC2eNesil,9%E2%82%AC2eNesil,Ryzen,11%E2%82%AC2eNesil;islemcitipi:Intel%E2%82%AC20Core%E2%82%AC20i7,AMD%E2%82%AC20Ryzen%E2%82%AC207,Intel%E2%82%AC20Core%E2%82%AC20i9;ekrankarti:Nvidia%E2%82%AC20GeForce%E2%82%AC20MX350,Nvidia%E2%82%AC20GeForce%E2%82%AC20GTX1650,Nvidia%E2%82%AC20GeForce%E2%82%AC20GTX1650%E2%82%AC20Ti,NVIDIA%E2%82%AC20Quadro%E2%82%AC20RTX%E2%82%AC203000,Nvidia%E2%82%AC20GeForce%E2%82%AC20MX450,Nvidia%E2%82%AC20Geforce%E2%82%AC20GTX1660%E2%82%AC20Ti,Nvidia%E2%82%AC20GeForce%E2%82%AC20RTX%E2%82%AC202070%E2%82%AC20Super%E2%82%AC20Max%E2%82%AC2dQ,Nvidia%E2%82%AC20GeForce%E2%82%AC20RTX%E2%82%AC202070,Nvidia%E2%82%AC20GeForce%E2%82%AC20MX330,AMD%E2%82%AC20Radeon%E2%82%AC20Graphics,AMD%E2%82%AC20Radeon%E2%82%AC20Vega%E2%82%AC2010
