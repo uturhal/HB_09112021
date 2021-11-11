@@ -18,7 +18,7 @@ BOT1	20	ANDROID_PHONES	https://www.hepsiburada.com/android-telefonlar-c-60005201
 BOT1	30	WASHING_MACHINES	https://www.hepsiburada.com/camasir-makineleri-c-155121
 BOT2	20	OVEREAR_HEADPHONES	https://www.hepsiburada.com/sony-philips-sennheiser-steelseries-bose-logitech-monster-shure-bangolufsen-corsair-asus-koss-hyperx-anker-akg-razer/kulak-ustu-kulakliklar-c-60004548
 BOT2	30	AKULU_ARABA	https://www.hepsiburada.com/akulu-pedalli-araclar-c-306860
-BOT0	20	TABLET	https://www.hepsiburada.com/tablet-c-3008012
+BOT2	20	TABLET	https://www.hepsiburada.com/tablet-c-3008012
 BOT2	30	REFRIGERATORS	https://www.hepsiburada.com/buzdolaplari-c-22154
 BOT2	30	TELEVISION	https://www.hepsiburada.com/led-tv-televizyonlar-c-163192
 BOT2	60	PROTEIN_TOZU	https://www.hepsiburada.com/protein-tozlari-c-354041
