@@ -1,3 +1,4 @@
+BOT	DISCOUNT	CATEGORY	URL
 BOT1	30	NB_APPLE	https://www.hepsiburada.com/apple/laptop-notebook-dizustu-bilgisayarlar-c-98
 BOT1	20	IOS_PHONES	https://www.hepsiburada.com/apple/iphone-ios-telefonlar-c-60005202
 BOT1	30	SOUNDBAR	https://www.hepsiburada.com/lg-samsung-bose-sony-harmankardon3-denon-klipsch-jbl-polkaudio-sonos-sennheiser-polk-yamaha-bowerswilkins-anker/soundbar-c-60008218
