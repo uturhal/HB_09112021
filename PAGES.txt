@@ -44,8 +44,8 @@ BOT8	15	SOFTSHELL_POLAR	https://www.hepsiburada.com/spor-outdoor-softshell-polar
 BOT9	15	AKSIYON_KAMERA	https://www.hepsiburada.com/aksiyon-kameralari-c-22018092
 BOT9	15	SPOR_CANTA	https://www.hepsiburada.com/sirt-cantasi-c-1300936
 BOT9	15	DAG_BISIKLETI	https://www.hepsiburada.com/dag-bisikletleri-c-353125
-BOT10	15	FITNESS	https://www.hepsiburada.com/fitness-kondisyon-urunleri-c-353045
-BOT10	15	SUPERMARKET	https://www.hepsiburada.com/supermarket-c-2147483619
+BOT9	15	FITNESS	https://www.hepsiburada.com/fitness-kondisyon-urunleri-c-353045
+BOT9	15	SUPERMARKET	https://www.hepsiburada.com/supermarket-c-2147483619
 BOT10	15	GIDA	https://www.hepsiburada.com/gida-urunleri-c-28001469
 BOT11	15	OTO_KOLTUGU	https://www.hepsiburada.com/ana-kucagi-oto-koltuklari-c-305661
 BOT11	15	BEBEK_ARABALARI	https://www.hepsiburada.com/bebek-arabasi-pusetleri-c-305668
