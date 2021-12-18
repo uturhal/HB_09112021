@@ -61,7 +61,7 @@ BOT8	25	HAVA_TEMIZLEME_NEMLENDIRME	https://www.hepsiburada.com/hava-temizleme-ne
 BOT8	50	OLTA_KAMIS_3	https://www.hepsiburada.com/shimano2-albastar-dam2-lineaeffe-dam/kamislar-c-1307209?
 BOT8	20	NB_HP	https://www.hepsiburada.com/hp/laptop-notebook-dizustu-bilgisayarlar-c-98
 BOT9	25	ANKASTRE_SET	https://www.hepsiburada.com/ankastre-setler-c-234329
-BOT9	50	OUTDOOR_AYAKKABI_KADIN	https://www.hepsiburada.com/salomon-thenorthface-columbia-adidas-jackwolfskin-hellyhansen-skechers-keen-quiksilver-nike-timberland-asics-underarmour-salewa-reebok-millet-mizuno-merrell/outdoor-ayakkabilar-c-22003663?filtreler=cinsiyet:Kad%E2%82%ACC4%E2%82%ACB1n"
+BOT9	50	OUTDOOR_AYAKKABI_KADIN	https://www.hepsiburada.com/salomon-thenorthface-columbia-adidas-jackwolfskin-hellyhansen-skechers-keen-quiksilver-nike-timberland-asics-underarmour-salewa-reebok-millet-mizuno-merrell/outdoor-ayakkabilar-c-22003663?filtreler=cinsiyet:Kad%E2%82%ACC4%E2%82%ACB1n
 BOT9	20	NB_DELL	https://www.hepsiburada.com/dell/laptop-notebook-dizustu-bilgisayarlar-c-98?filtreler=islemcinesli:11%E2%82%AC2eNesil,10%E2%82%AC2eNesil,Ryzen;islemcitipi:Intel%E2%82%AC20Core%E2%82%AC20i7,Intel%E2%82%AC20Core%E2%82%AC20i5,AMD%E2%82%AC20Ryzen%E2%82%AC205,Intel%E2%82%AC20Core%E2%82%AC20i9,AMD%E2%82%AC20Ryzen%E2%82%AC207;ramsistembellegi:16%E2%82%AC20GB,32%E2%82%AC20GB,8%E2%82%AC20GB,64%E2%82%AC20GB,12%E2%82%AC20GB,36%E2%82%AC20GB,40%E2%82%AC20GB,128%E2%82%AC20GB,24%E2%82%AC20GB,20%E2%82%AC20GB
 BOT10	25	CEVRE_BIRIM	https://www.hepsiburada.com/logitech-razer-sennheiser-xiaomi-microsoft-msi-steelseries-samsung-corsair/cevre-birimleri-c-3013120
 BOT10	25	KAHVE_MAKINESI	https://www.hepsiburada.com/kahve-makineleri-c-22348
